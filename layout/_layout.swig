@@ -57,4 +57,5 @@
     </div>
   {%- endif %}
 </body>
+<script type="text/javascript" src="/js/src/PostHead.js"></script>
 </html>
