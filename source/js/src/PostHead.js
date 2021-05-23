@@ -34,7 +34,7 @@ var time = new Date();
 time.toLocaleString();
 newpost.onclick = () => {
     var msg = `---
-title: ${nowTime()}
+title: ${nowTime()} @
 date: ${nowTime()}
 tags: [无]
 categories: 默认
